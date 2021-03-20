@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.instagram.com/mushlih_31/" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/favicon-200.png/ab6eff595bb1.png" alt="@mushlih_31" height="50" width="50" /></a>
 <a href="https://mutiaradakwah.com/" target="blank"><img align="center" src="https://i.imgur.com/c0jbuqE.png" alt="Mutiara Dakwah" height="50" width="50" /></a>
-<a href = "mailto: mushlih2004@gmail.com"><img align="center" src="https://i.imgur.com/Zrtvtdc.png" height="50" width="50" /></a>
+<a href = "mailto:mushlih2004@gmail.com"><img align="center" src="https://i.imgur.com/Zrtvtdc.png" height="50" width="50" /></a>
 </p>
 </p>
 
@@ -23,7 +23,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Berbicara tentang Saya...***
 
-✔ Saya sedang mengembangkan aplikasi **[Mutiara Dakwah](https://mutiaradakwah.com/)** **[@mutiaradakwahcom](https://github.com/mutiaradakwahcom)**<br>
+✔ Saya sedang mengembangkan aplikasi **[Mutiara Dakwah](https://mutiaradakwah.com/)** **[(@mutiaradakwahcom)](https://github.com/mutiaradakwahcom)**<br>
 ✔ Saya sedang mempelajari **[Kotlin](https://kotlinlang.org/)** & **[Git](https://git-scm.com/)**<br>
 ✔ Saya ingin berkolaborasi dengan **Kontribusi Open - Source**<br>
 ✔ Saya secara teratur menulis artikel di [Mutiara Dakwah](https://mutiaradakwah.com/)<br>
