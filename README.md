@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Assalamualaikum <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Saya Mushlih Almubarak</h1>
-<h3 align="center">Pengembang Aplikasi | Pengembang Website | Data Analistik</h3>
+<h3 align="center">Pengembang Aplikasi | Pengembang Website | Data Analistik | Cyber Security | SEO Specialist</h3>
 <p align="center">
 <a href="https://www.instagram.com/mushlih_31/" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/favicon-200.png/ab6eff595bb1.png" alt="@mushlih_31" height="50" width="50" /></a>
 <a href="https://mutiaradakwah.com/" target="blank"><img align="center" src="https://i.imgur.com/c0jbuqE.png" alt="Mutiara Dakwah" height="50" width="50" /></a>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    Ini aku, Mushlih Almubarak, Pengembang Perangkat Lunak dan Pengembang Website <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="30px">
+    Ini saya, Mushlih Almubarak, pengembang perangkat lunak dan website, data analistik,  cyber security, dan SEO specialist<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="30px">
   </em> 
 </p>
 
@@ -45,6 +45,11 @@
   <code> <img height="50" src="https://i.imgur.com/27QKOmk.png"> </code>
   <code> <img height="50" src="https://www.mutaz.net/free-programs/prog-img/Sublime_text_logo.png"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"> </code>
+  <code> <img height="50" src="https://i.imgur.com/GFYaOFC.png"> </code>
+  <code> <img height="50" src="https://i.imgur.com/h2WtHMt.png"> </code>
+  <code> <img height="50" src="https://i.imgur.com/qS5ki4S.png"> </code>
+  <code> <img height="50" src="https://i.imgur.com/YKmC4Di.png"> </code>
+</code>
   <code> <img height="50" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC.jpg"> </code>
   <hr>
   <p align="center">
