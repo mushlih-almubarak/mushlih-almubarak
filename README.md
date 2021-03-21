@@ -19,7 +19,7 @@
   </em> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushlih-almubarak&label=Pengunjung%20Profil&color=0e75b6&style=flat" alt="Mushlih Almubarak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushlih-almubarak&label=Pengunjung%20Profil%20Saya&color=0e75b6&style=flat" alt="Mushlih Almubarak" /> </p>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Berbicara tentang Saya...***
 
