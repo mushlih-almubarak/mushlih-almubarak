@@ -55,6 +55,8 @@
   11. IntelliJ IDEA<br>
   12. SEO<br>
   13. Google Analytics<br>
+  14. Android Studio
+  15. FileZilla
  
   <hr>
   <p align="center">
