@@ -31,26 +31,33 @@
 ✔ Fakta menyenangkan: *Pada saat menyelesaikan bug, saya biasanya sesekali melihat warna hijau*<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Bahasa & Tools Yang Saya Ketahui...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Bahasa Yang Saya Ketahui...***
 <p align="left">
+  1. HTML<br>
+  2. CSS<br>
+  3. PHP<br>
+  4. Javascript<br>
+  5. Java<br>
+  6. Kotlin<br>
   
-  <code> <img height="50" src="https://raw.githubusercontent.com/uannabi/-/fb6275d5134eb27df390835d330e221c72a47ee4/resource/git.svg"> </code>
-  <code> <img height="50" src="https://i.imgur.com/KGIjLbe.png"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/uannabi/-/fb6275d5134eb27df390835d330e221c72a47ee4/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://i.imgur.com/nlSqPuc.png"> </code>
-  <code> <img height="50" src="https://i.imgur.com/U0t4CV9.png"> </code>
-  <code> <img height="50" src="https://i.imgur.com/mVWZ2l5.png"> </code>
-  <code> <img height="50" src="https://i.imgur.com/27QKOmk.png"> </code>
-  <code> <img height="50" src="https://www.mutaz.net/free-programs/prog-img/Sublime_text_logo.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"> </code>
-  <code> <img height="50" src="https://i.imgur.com/GFYaOFC.png"> </code>
-  <code> <img height="50" src="https://i.imgur.com/h2WtHMt.png"> </code>
-  <code> <img height="50" src="https://i.imgur.com/qS5ki4S.png"> </code>
-  <code> <img height="50" src="https://i.imgur.com/YKmC4Di.png"> </code>
-</code>
-  <code> <img height="50" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC.jpg"> </code>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Tools dan Teknologi Yang Saya Ketahui...***
+<p align="left">
+  1. GitHub<br>
+  2. Git<br>
+  3. Apache<br>
+  4. LiteSpeed<br>
+  5. MySQL<br>
+  6. phpMyAdmin<br>  
+  7. WordPress<br>
+  8. Sublime Text<br>
+  9. Visual Studio Code<br>
+  10. Google Search Console<br>
+  11. IntelliJ IDEA<br>
+  12. SEO<br>
+  13. Google Analytics<br>
+  14. Android Studio<br>
+  15. FileZilla<br>
+ 
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>Statistik Akun GitHub Saya</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
