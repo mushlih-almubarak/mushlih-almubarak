@@ -6,7 +6,7 @@
 <h3 align="center">Pengembang Aplikasi | Pengembang Website | Data Analistik | Cyber Security | SEO Specialist</h3>
 <p align="center">
 <a href="https://www.instagram.com/mushlih_31/" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/favicon-200.png/ab6eff595bb1.png" alt="@mushlih_31" height="50" width="50" /></a>
-<a href="https://mutiaradakwah.com/" target="blank"><img align="center" src="https://i.imgur.com/c0jbuqE.png" alt="Mutiara Dakwah" height="50" width="50" /></a>
+<a href="https://mutiaradakwah.com/" target="blank"><img align="center" src="https://i.imgur.com/uIWFD9E.png" alt="Mutiara Dakwah" height="50" width="50" /></a>
 <a href = "mailto:mushlih2004@gmail.com"><img align="center" src="https://i.imgur.com/Zrtvtdc.png" height="50" width="50" /></a>
 </p>
 </p>
