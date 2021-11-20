@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/mushlih_31" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/favicon-200.png/ab6eff595bb1.png" alt="@mushlih_31" height="50" width="50" /></a>
 <a href="https://twitter.com/mushlih_31" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@mushlih_31" height="50" width="50" /></a>
 <a href="https://t.me/mushlih_31" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72560310/142720549-fb9c1e2c-150a-491f-97ca-1d9642b9bddf.png" alt="@mushlih_31" height="50" width="50" /></a>
-<a href = "mailto:mushlih2004@gmail.com"><img align="center" src="https://i.imgur.com/Zrtvtdc.png" height="50" width="50" /></a>
+<a href = "mailto:mushlih_31@mushlih.cf"><img align="center" src="https://user-images.githubusercontent.com/72560310/142730232-47390acf-ccaf-4ccd-af2d-13aacf36a5db.png" height="50" width="50" /></a>
 </p>
 </p>
 
@@ -29,8 +29,7 @@
 ✔ Saya ingin berkolaborasi dengan **Kontribusi Open - Source**<br>
 ✔ Saya secara teratur menulis artikel di [Mutiara Dakwah](https://mutiaradakwah.com/)<br>
 ✔ Tanyakan kepada saya tentang apa saja, saya dengan senang hati membantu jika pertanyaannya bermanfaat! 😉<br>
-✔ Fakta menyenangkan: *Pada saat menyelesaikan bug, saya biasanya sesekali melihat warna hijau*<br><br><br><br>
- 
+✔ Fakta menyenangkan: *Pada saat menyelesaikan bug, saya biasanya sesekali melihat warna hijau*<br><br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Bahasa Yang Saya Ketahui...***
 <p align="left">
