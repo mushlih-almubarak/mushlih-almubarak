@@ -25,10 +25,11 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
+          build_dir: assets
           github_user_name: mushlih-almubarak
           svg_out_path: |
-            dist/github-snake.svg?color_snake=blue
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=blue
+            assets/github-snake.svg?color_snake=blue
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=blue
 
       # Push the changes
       - name: Push changes
