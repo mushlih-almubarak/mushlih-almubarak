@@ -26,6 +26,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushlih-almubarak&show_icons=true&theme=dracula&title_color=00aaff&locale=en&layout=compact" alt="mushlih-almubarak" /></p> 
 
+![Snake animation](https://github.com/mushlih-almubarak/mushlih-almubarak/blob/output/github-contribution-grid-snake.svg)
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
