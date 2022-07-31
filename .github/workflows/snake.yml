@@ -25,7 +25,6 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          build_dir: assets
           github_user_name: mushlih-almubarak
           svg_out_path: |
             assets/github-snake.svg?color_snake=blue
