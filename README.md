@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Mushlih Almubarak, web developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushlih-almubarak&label=Profile%20Views&color=0e75b6&style=flat" alt="Mushlih Almubarak" /> </p>
 
 ## 💫 About Me:
 🔭 I’m currently ~~working~~ **learning** and keep practicing making projects (I am 17 years old and still in school) 😄<br>
