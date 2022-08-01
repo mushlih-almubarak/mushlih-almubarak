@@ -32,6 +32,10 @@
 ## 📊 GitHub Metrics:
 ![Metrics](https://metrics.lecoq.io/mushlih-almubarak?template=classic&base.hireable=true&repositories.forks=true&followup=1&lines=1&base.indepth=false&base.hireable=true&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FRiyadh)
 
+## 📊 Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -42,7 +46,4 @@
  [![Github Sponsor](https://img.shields.io/badge/Github-76d3f2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sponsors/mushlih-almubarak) 
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mushlih) 
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mushlih31) 
- [![Trakteer](https://img.shields.io/badge/Trakteer-%23D42029?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/mushlih_31/tip) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+ [![Trakteer](https://img.shields.io/badge/Trakteer-%23D42029?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/mushlih_31/tip)
