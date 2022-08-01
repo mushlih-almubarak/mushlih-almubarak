@@ -33,61 +33,6 @@
 ## 📊 GitHub Metrics:
 ![Metrics](https://metrics.lecoq.io/mushlih-almubarak?template=classic&base.hireable=true&repositories.forks=true&followup=1&lines=1&base.indepth=false&base.hireable=true&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FRiyadh)
 
-## 📊 Coding Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-407-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    162 commits    █████░░░░░░░░░░░░░░░░░░░░   22.38% 
-🌆 Daytime    352 commits    ████████████░░░░░░░░░░░░░   48.62% 
-🌃 Evening    210 commits    ███████░░░░░░░░░░░░░░░░░░   29.01% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
-Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-Thursday     65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
-Friday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-Saturday     146 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17% 
-Sunday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.23%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     6 repos             ███████████░░░░░░░░░░░░░░   46.15% 
-PHP                      5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-Kotlin                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
 ## 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
