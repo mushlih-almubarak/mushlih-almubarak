@@ -23,7 +23,9 @@
 
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mushlih-almubarak&theme=dracula&stroke=00AAFF&ring=00AAFF&fire=FF0000BF&sideNums=79D9F9&currStreakNum=79D9F9&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=79D9F9" alt="mushlih-almubarak" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushlih-almubarak&show_icons=true&theme=dracula&title_color=00aaff&locale=en&layout=compact" alt="mushlih-almubarak" /></p> 
+<br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushlih-almubarak&show_icons=true&theme=dracula&title_color=00aaff&locale=en&layout=compact" alt="mushlih-almubarak" /></p> 
+<br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mushlih-almubarak&show_icons=true&theme=dracula&title_color=00aaff&locale=en" alt="mushlih-almubarak" /></p>
 
 ![Snake animation](https://github.com/mushlih-almubarak/mushlih-almubarak/blob/output/github-contribution-grid-snake.svg)
