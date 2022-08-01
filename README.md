@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Mushlih Almubarak, web developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushlih-almubarak&label=Profile%20Views&color=0e75b6&style=flat" alt="Mushlih Almubarak" /> </p>
+![profile-views](https://komarev.com/ghpvc/?username=mushlih-almubarak&label=Profile%20Views&color=0e75b6&style=flat)
+[![wakatime](https://wakatime.com/badge/user/26dc7624-db88-44f2-aefa-014314d9bb69.svg)](https://wakatime.com/@26dc7624-db88-44f2-aefa-014314d9bb69)
 
 ## 💫 About Me:
 🔭 I’m currently ~~working~~ **learning** and keep practicing making projects (I am 17 years old and still in school) 😄<br>
@@ -22,10 +23,8 @@
 
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mushlih-almubarak&theme=dracula&stroke=00AAFF&ring=00AAFF&fire=FF0000BF&sideNums=79D9F9&currStreakNum=79D9F9&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=79D9F9" alt="mushlih-almubarak" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mushlih-almubarak&show_icons=true&theme=dracula&title_color=00aaff&locale=en" alt="mushlih-almubarak" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushlih-almubarak&show_icons=true&theme=dracula&title_color=00aaff&locale=en&layout=compact" alt="mushlih-almubarak" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushlih-almubarak&show_icons=true&theme=dracula&title_color=00aaff&locale=en&layout=compact" alt="mushlih-almubarak" /></p> 
+<p><img src="https://github-readme-stats.vercel.app/api?username=mushlih-almubarak&show_icons=true&theme=dracula&title_color=00aaff&locale=en" alt="mushlih-almubarak" /></p>
 
 ![Snake animation](https://github.com/mushlih-almubarak/mushlih-almubarak/blob/output/github-contribution-grid-snake.svg)
 
