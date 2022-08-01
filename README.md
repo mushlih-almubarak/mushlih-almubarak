@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mushlih Almubarak, web developer
-![profile-views](https://komarev.com/ghpvc/?username=mushlih-almubarak&label=Profile%20Views&color=0e75b6&style=flat)
-[![wakatime](https://wakatime.com/badge/user/26dc7624-db88-44f2-aefa-014314d9bb69.svg)](https://wakatime.com/@26dc7624-db88-44f2-aefa-014314d9bb69)
+![Profile Views](https://komarev.com/ghpvc/?username=mushlih-almubarak&label=Profile%20Views&color=0e75b6&style=flat)
+[![Github Sponsor](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/mushlih-almubarak) 
 
 ## 💫 About Me:
 🔭 I’m currently ~~working~~ **learning** and keep practicing making projects (I am 17 years old and still in school) 😄<br>
@@ -94,11 +94,8 @@ Kotlin                   2 repos             ███░░░░░░░░�
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=mushlih-almubarak&icon=0&color=0)](https://visitcount.itsvg.in)
-
  ## 💰 You Can Support Me By Donating
-[![Github Sponsor](https://img.shields.io/badge/Github-76d3f2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sponsors/mushlih-almubarak) 
+[![Github Sponsor](https://img.shields.io/badge/Github%20Sponsor-009639?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sponsors/mushlih-almubarak) 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mushlih) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mushlih31) 
 [![Trakteer](https://img.shields.io/badge/Trakteer-%23D42029?style=for-the-badge&logo=trakteer&logoColor=white)](https://trakteer.id/mushlih_31/tip)
