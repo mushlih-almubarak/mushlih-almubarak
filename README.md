@@ -34,6 +34,80 @@
 
 ## 📊 Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-407-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 829 Contributions in the Year 2022
+ > 
+> 📦 2.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    162 commits    █████░░░░░░░░░░░░░░░░░░░░   22.41% 
+🌆 Daytime    352 commits    ████████████░░░░░░░░░░░░░   48.69% 
+🌃 Evening    209 commits    ███████░░░░░░░░░░░░░░░░░░   28.91% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
+Thursday     65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
+Friday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+Saturday     146 commits    █████░░░░░░░░░░░░░░░░░░░░   20.19% 
+Sunday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.25%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Riyadh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     6 repos             ███████████░░░░░░░░░░░░░░   46.15% 
+PHP                      5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
+Kotlin                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/mushlih-almubarak/mushlih-almubarak/main/charts/bar_graph.png) 
+
+
+ Last Updated on 01/08/2022 15:08:53 UTC
 <!--END_SECTION:waka-->
 
 ## ✍️ Random Dev Quote
