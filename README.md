@@ -11,7 +11,7 @@
 
 ## 🌐 Connect With Me:
 [![Telegram](https://img.shields.io/badge/Telegram-1769ff?logo=telegram&logoColor=white)](https://t.me/mushlih_31) 
-[![Email](https://img.shields.io/badge/Email-%23FF0000.svg?logo=Gmail&logoColor=white)](mailto:mushlih_31@mushlih.cf)
+[![Email](https://img.shields.io/badge/Email-%23FF0000.svg?logo=Gmail&logoColor=white)](mailto:mushlih_31@icloud.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1769ff.svg?logo=Twitter&logoColor=white)](https://twitter.com/mushlih_31) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF0000.svg?logo=Instagram&logoColor=white)](https://instagram.com/mushlih_31) 
 [![Snapchat](https://img.shields.io/badge/Snapchat-FE7A16.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/mushlih_31) 
