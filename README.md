@@ -3,7 +3,7 @@
 [![Github Sponsor](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/mushlih-almubarak) 
 
 ## 💫 About Me:
-🔭 I’m currently ~~working~~ **learning** and keep practicing making projects (I am 18 years old and still in school) 😄<br>
+🔭 I’m currently ~~working~~ **learning** and keep practicing making projects (I am 19 years old and still in school) 😄<br>
 👯 I’m looking to collaborate on [@google](https://github.com/google), [@microsoft](https://github.com/microsoft), etc.<br>
 🤝 I’m looking for help with my **slow** server 😢
 <br>🌱 I’m currently learning [@laravel](https://github.com/laravel) framework.<br>💬 Ask me anything related to **web applications**.<br>
