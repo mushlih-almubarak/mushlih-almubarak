@@ -34,10 +34,7 @@
 ![Metrics](https://metrics.lecoq.io/mushlih-almubarak?template=classic&base.hireable=true&repositories.forks=true&followup=1&lines=1&base.indepth=false&base.hireable=true&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FRiyadh)
 
 ## 📊 Holopin Badges
-[![@mushlih_31's Holopin board](https://holopin.me/mushlih_31)](https://holopin.io/@mushlih_31)
-
-## 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![An image of @mushlih_31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mushlih_31)](https://holopin.io/@mushlih_31)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
