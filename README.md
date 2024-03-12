@@ -30,9 +30,6 @@
 
 ![Snake animation](https://github.com/mushlih-almubarak/mushlih-almubarak/blob/output/github-contribution-grid-snake.svg)
 
-## 📊 GitHub Metrics:
-![Metrics](https://metrics.lecoq.io/mushlih-almubarak?template=classic&base.hireable=true&repositories.forks=true&followup=1&lines=1&base.indepth=false&base.hireable=true&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FRiyadh)
-
 ## 📊 Holopin Badges
 [![An image of @mushlih_31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mushlih_31)](https://holopin.io/@mushlih_31)
 
