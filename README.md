@@ -3,10 +3,10 @@
 [![Github Sponsor](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/mushlih-almubarak) 
 
 ## 💫 About Me:
-🔭 I’m currently ~~working~~ **learning** and keep practicing making projects (I am 19 years old and still in school) 😄<br>
-👯 I’m looking to collaborate on [@google](https://github.com/google), [@microsoft](https://github.com/microsoft), etc.<br>
-🤝 I’m looking for help with my **slow** server 😢
-<br>🌱 I’m currently learning [@laravel](https://github.com/laravel) framework.<br>💬 Ask me anything related to **web applications**.<br>
+🤝 My name is Mushlih Almubarak. 😄<br>
+🔭 I'm **20 years old**, and I'm constantly creating open-source projects to improve my coding experience.<br>
+🌱 I learned coding through YouTube and courses, not through school.<br>
+💬 Ask me anything related to **web applications**.<br>
 ⚡ Fun fact: I like to see **green color** to refresh my eyes when coding 😎
 
 ## 🌐 Connect With Me:
@@ -14,9 +14,9 @@
 [![Email](https://img.shields.io/badge/Email-%23FF0000.svg?logo=Gmail&logoColor=white)](mailto:mushlih_31@icloud.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1769ff.svg?logo=Twitter&logoColor=white)](https://twitter.com/mushlih_31) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF0000.svg?logo=Instagram&logoColor=white)](https://instagram.com/mushlih_31) 
-[![Snapchat](https://img.shields.io/badge/Snapchat-FE7A16.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/mushlih_31) 
-[![Google Developer](https://img.shields.io/badge/-Google%20Developer-1769ff?logo=google&logoColor=white)](https://g.dev/mushlih_31)
+[![WordPress](https://img.shields.io/badge/-WordPress-1769ff?logo=wordpress&logoColor=white)](https://profiles.wordpress.org/mushlih) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16115628)
+[![Google Developer](https://img.shields.io/badge/-Google%20Developer-1769ff?logo=google&logoColor=white)](https://g.dev/mushlih_31)
 
 ## 💻 Languages and Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
