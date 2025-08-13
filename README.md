@@ -12,7 +12,7 @@
 ## 🌐 Connect With Me:
 [![Telegram](https://img.shields.io/badge/Telegram-1769ff?logo=telegram&logoColor=white)](https://t.me/mushlih_31) 
 [![Email](https://img.shields.io/badge/Email-%23FF0000.svg?logo=Gmail&logoColor=white)](mailto:mushlih_31@icloud.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1769ff.svg?logo=Twitter&logoColor=white)](https://twitter.com/mushlih_31) 
+[![Twitter](https://img.shields.io/badge/Twitter-000000.svg?logo=X&logoColor=white)](https://x.com/mushlih_31) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF0000.svg?logo=Instagram&logoColor=white)](https://instagram.com/mushlih_31) 
 [![WordPress](https://img.shields.io/badge/-WordPress-1769ff?logo=wordpress&logoColor=white)](https://profiles.wordpress.org/mushlih) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16115628)
