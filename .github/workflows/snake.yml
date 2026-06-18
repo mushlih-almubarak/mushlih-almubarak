@@ -23,7 +23,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
     # Generates the snake
       - uses: Platane/snk@master
